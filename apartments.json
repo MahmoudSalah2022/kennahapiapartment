@@ -10,5 +10,9 @@
     {
         "name": "sequoia-akoya-compound",
         "type": 3
+    },
+    {
+        "name": "Varenna-LakeView",
+        "type": 4
     }
 ]
