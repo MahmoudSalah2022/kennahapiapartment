@@ -14,5 +14,61 @@
     {
         "name": "Varenna-LakeView",
         "type": 4
+    },
+	{
+        "name": "saoirse-lake-view-residence",
+        "type": 5
+    },
+    {
+        "name": "lourina-lake-view-residence-2",
+        "type": 6
+    },
+    {
+        "name": "rivera",
+        "type": 7
+    },
+    {
+        "name": "sakura",
+        "type": 8
+    },
+	{
+        "name": "sequoia",
+        "type": 9
+    },
+    {
+        "name": "sahara",
+        "type": 10
+    },
+    {
+        "name": "balboa",
+        "type": 11
+    },
+    {
+        "name": "catalina",
+        "type": 12
+    },
+	    {
+        "name": "milena",
+        "type": 13
+    },
+    {
+        "name": "meraviglia-lake-view-residence",
+        "type": 14
+    },
+    {
+        "name": "melina-akoya-compound",
+        "type": 15
+    },
+    {
+        "name": "sakura-lake-view-residence",
+        "type": 16
+    },
+	{
+        "name": "rivera-lake-view-residence",
+        "type": 17
+    },
+    {
+        "name": "lake-view-residence",
+        "type": 18
     }
 ]
