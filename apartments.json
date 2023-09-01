@@ -12,6 +12,10 @@
 			"booking":
 			{
 				"link":"https://www.booking.com/hotel/eg/saoirse.html"
+			},
+			"expedia":
+			{
+				"link":""
 			}
 		}
     },
@@ -24,6 +28,10 @@
 			"airbnb":
 			{
 				"link":"https://www.airbnb.com/rooms/54136937"
+			},
+			"booking":
+			{
+				"link":""
 			},
 			"expedia":
 			{
