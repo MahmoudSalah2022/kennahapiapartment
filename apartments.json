@@ -2,12 +2,34 @@
     {
         "name": "catalina-hayati-residence",
         "type": 1,
-        "rangdate": 7
+        "rangdate": 7,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/54321439"
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/saoirse.html"
+			}
+		}
     },
     {
         "name": "varenna",
         "type": 2,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/54136937"
+			},
+			"expedia":
+			{
+				"link":"https://www.expedia.com/Cairo-Hotels-Varenna-At-Silver-Palm.h92719599.Hotel-Information"
+			}
+		}
     },
     {
         "name": "sequoia-akoya-compound",
