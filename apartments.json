@@ -42,81 +42,321 @@
     {
         "name": "sequoia-akoya-compound",
         "type": 3,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "varenna-lake-view-residence",
         "type": 4,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
 	{
         "name": "saoirse-lake-view-residence",
         "type": 5,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "lourina-lake-view-residence-2",
         "type": 6,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "rivera",
         "type": 7,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "sakura",
         "type": 8,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
 	{
         "name": "sequoia",
         "type": 9,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "sahara",
         "type": 10,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "balboa",
         "type": 11,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "catalina",
         "type": 12,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
 	    {
         "name": "milena",
         "type": 13,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "meraviglia-lake-view-residence",
         "type": 14,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "melina-akoya-compound",
         "type": 15,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "sakura-lake-view-residence",
         "type": 16,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
 	{
         "name": "rivera-lake-view-residence",
         "type": 17,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     },
     {
         "name": "lake-view-residence",
         "type": 18,
-        "rangdate": 2
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":""
+			},
+			"booking":
+			{
+				"link":""
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     }
 ]
