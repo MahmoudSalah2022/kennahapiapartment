@@ -358,5 +358,65 @@
 				"link":""
 			}
 		}
+    },
+	{
+        "name": "varenna-west-golf-extension",
+        "type": 23,
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/954233501510057658"
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/varenna-at-kennah-west-golf-extension.en-gb.html"
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
+    },
+	{
+        "name": "catalina-west-golf-extension",
+        "type": 22,
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/954196629464468259"
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/catalina-at-kennah-west-golf-extension.en-gb.html"
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
+    },
+	{
+        "name": "lourina-west-golf-extension",
+        "type": 21,
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/954223347700285524"
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/lourina-at-kennah-west-golf-extension.en-gb.html"
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     }
 ]
