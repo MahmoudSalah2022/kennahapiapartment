@@ -7,11 +7,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/54321439"
+				"link":"https://www.airbnb.com/rooms/54321439",
+				"price": 72
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/saoirse.en-gb.html?label=gen173nr-1BCAsoQ0IHc2FvaXJzZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC-Mn7pwbAAgHSAiQ2NTY4NTdiNi0xMzAzLTQwNGEtYWEzNy1hMjlkZGQ3YTYyZTjYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/saoirse.en-gb.html?label=gen173nr-1BCAsoQ0IHc2FvaXJzZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC-Mn7pwbAAgHSAiQ2NTY4NTdiNi0xMzAzLTQwNGEtYWEzNy1hMjlkZGQ3YTYyZTjYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -50,11 +52,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/755843325369927489"
+				"link":"https://www.airbnb.com/rooms/755843325369927489",
+				"price": 125
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-sequoia-akoya-families-only.en-gb.html?label=gen173nr-1BCAsoQ0Ila2VubmFoLWF0LXNlcXVvaWEtYWtveWEtZmFtaWxpZXMtb25seUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC7sn7pwbAAgHSAiRiNTE4MTYwZi1jNDE5LTRmZDktYjhkNS1iODI2OTQ5OGE5ZTfYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-sequoia-akoya-families-only.en-gb.html?label=gen173nr-1BCAsoQ0Ila2VubmFoLWF0LXNlcXVvaWEtYWtveWEtZmFtaWxpZXMtb25seUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC7sn7pwbAAgHSAiRiNTE4MTYwZi1jNDE5LTRmZDktYjhkNS1iODI2OTQ5OGE5ZTfYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -70,11 +74,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/761514677134177793"
+				"link":"https://www.airbnb.com/rooms/761514677134177793",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/varenna-at-lake-view-residence.en-gb.html"
+				"link":"https://www.booking.com/hotel/eg/varenna-at-lake-view-residence.en-gb.html",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -90,11 +96,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/767261839678201600"
+				"link":"https://www.airbnb.com/rooms/767261839678201600",
+				"price": 235
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/saoirse-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ilc2FvaXJzZS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC5NPEqAbAAgHSAiQ4MTk0YzI3ZS0wNDhhLTQyZDktYjhmNC1kZGZiNjZiMjc4OTXYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/saoirse-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ilc2FvaXJzZS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC5NPEqAbAAgHSAiQ4MTk0YzI3ZS0wNDhhLTQyZDktYjhmNC1kZGZiNjZiMjc4OTXYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -110,11 +118,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/786193899036913679"
+				"link":"https://www.airbnb.com/rooms/786193899036913679",
+				"price": 235
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/lourina-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0IlbG91cmluYS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC1dPEqAbAAgHSAiRhZDYxNjk2YS1kZWM1LTQ4YzQtOTQ3Mi1hOGY5YTQ3NzQ5YmbYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/lourina-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0IlbG91cmluYS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC1dPEqAbAAgHSAiRhZDYxNjk2YS1kZWM1LTQ4YzQtOTQ3Mi1hOGY5YTQ3NzQ5YmbYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -130,15 +140,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/561246985755882537"
+				"link":"https://www.airbnb.com/rooms/561246985755882537",
+				"price": 120
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-rivera-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LXJpdmVyYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC68n7pwbAAgHSAiQxOGFmZmM0OC00OGY2LTRlZDctOWU2ZC04OGYxYmEwOWUyYWTYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-rivera-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LXJpdmVyYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC68n7pwbAAgHSAiQxOGFmZmM0OC00OGY2LTRlZDctOWU2ZC04OGYxYmEwOWUyYWTYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 120
 			}
 		}
     },
@@ -150,15 +163,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/54064303"
+				"link":"https://www.airbnb.com/rooms/54064303",
+				"price": 90
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-sakura-silver-palm.html"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-sakura-silver-palm.html",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 90
 			}
 		}
     },
@@ -170,15 +186,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/54047654"
+				"link":"https://www.airbnb.com/rooms/54047654",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-sequoia-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ida2VubmFoLWF0LXNlcXVvaWEtc2lsdmVyLXBhbG1IM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4AuXJ-6cGwAIB0gIkYjkzMTAxZTctZjU0OC00MzU4LWJmMDUtODU1MWFlYjViYTUz2AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-sequoia-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ida2VubmFoLWF0LXNlcXVvaWEtc2lsdmVyLXBhbG1IM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4AuXJ-6cGwAIB0gIkYjkzMTAxZTctZjU0OC00MzU4LWJmMDUtODU1MWFlYjViYTUz2AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 110
 			}
 		}
     },
@@ -190,15 +209,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/54138599"
+				"link":"https://www.airbnb.com/rooms/54138599",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-sahara-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LXNhaGFyYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC38n7pwbAAgHSAiQ1NWExNmQxZi1iMDEwLTQyNzAtYTdhMS0yYjBkNDA0MDJjYWPYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-sahara-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LXNhaGFyYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC38n7pwbAAgHSAiQ1NWExNmQxZi1iMDEwLTQyNzAtYTdhMS0yYjBkNDA0MDJjYWPYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 110
 			}
 		}
     },
@@ -210,15 +232,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/54139003"
+				"link":"https://www.airbnb.com/rooms/54139003",
+				"price": 90
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-stays-at-silver-palm-familys-only.en-gb.html?label=gen173nr-1BCAsoQ0Ioa2VubmFoLXN0YXlzLWF0LXNpbHZlci1wYWxtLWZhbWlseXMtb25seUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC8cn7pwbAAgHSAiQ0ZTZmZjRjOS1jZThiLTQ3NTMtYTcxOC1lZjZhY2FjMjJhNDjYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-stays-at-silver-palm-familys-only.en-gb.html?label=gen173nr-1BCAsoQ0Ioa2VubmFoLXN0YXlzLWF0LXNpbHZlci1wYWxtLWZhbWlseXMtb25seUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC8cn7pwbAAgHSAiQ0ZTZmZjRjOS1jZThiLTQ3NTMtYTcxOC1lZjZhY2FjMjJhNDjYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 90
 			}
 		}
     },
@@ -230,15 +255,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/562110292210315721"
+				"link":"https://www.airbnb.com/rooms/562110292210315721",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-catalina-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Iea2VubmFoLWF0LWNhdGFsaW5hLXNpbHZlci1wYWxtSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuALOyfunBsACAdICJDEyNmRkMzYzLTU2NzUtNDk4YS1iOTEzLTFkYzMzMTI1NDczOdgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-catalina-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Iea2VubmFoLWF0LWNhdGFsaW5hLXNpbHZlci1wYWxtSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuALOyfunBsACAdICJDEyNmRkMzYzLTU2NzUtNDk4YS1iOTEzLTFkYzMzMTI1NDczOdgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 110
 			}
 		}
     },
@@ -250,15 +278,18 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/562807514866902771"
+				"link":"https://www.airbnb.com/rooms/562807514866902771",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-milena-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LW1pbGVuYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgCy8n7pwbAAgHSAiQyMWIzM2M3Mi1lZWU4LTQ4NGQtYWY1Ny0xODNkNTcxNDBjMmHYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-milena-silver-palm.en-gb.html?label=gen173nr-1BCAsoQ0Ica2VubmFoLWF0LW1pbGVuYS1zaWx2ZXItcGFsbUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgCy8n7pwbAAgHSAiQyMWIzM2M3Mi1lZWU4LTQ4NGQtYWY1Ny0xODNkNTcxNDBjMmHYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
-				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information"
+				"link":"https://www.expedia.com/Cairo-Hotels-Kennah-Stays.h96284219.Hotel-Information",
+				"price": 110
 			}
 		}
     },
@@ -270,11 +301,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/786232558387597180"
+				"link":"https://www.airbnb.com/rooms/786232558387597180",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/meraviglia-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0IobWVyYXZpZ2xpYS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC6NPEqAbAAgHSAiRmMGVmOTM2ZC1mZGE0LTQzNGItYTU3NC04Yzk4YjY5NWJkOWPYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/meraviglia-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0IobWVyYXZpZ2xpYS1hdC1rZW5uYWgtbGFrZS12aWV3LXJlc2lkZW5jZUgzWARoQ4gBAZgBCbgBGMgBDNgBAegBAYgCAagCBLgC6NPEqAbAAgHSAiRmMGVmOTM2ZC1mZGE0LTQzNGItYTU3NC04Yzk4YjY5NWJkOWPYAgXgAgE&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -290,11 +323,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/755779615784729564"
+				"link":"https://www.airbnb.com/rooms/755779615784729564",
+				"price": 125
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/a-01-003.en-gb.html?label=gen173nr-1BCAsoQ0IIYS0wMS0wMDNIM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4AvTJ-6cGwAIB0gIkZjU0YjQ0NWItYzI5Zi00OWUxLWJjOGUtMzMzY2VkNTZjZTdh2AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/a-01-003.en-gb.html?label=gen173nr-1BCAsoQ0IIYS0wMS0wMDNIM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4AvTJ-6cGwAIB0gIkZjU0YjQ0NWItYzI5Zi00OWUxLWJjOGUtMzMzY2VkNTZjZTdh2AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -310,11 +345,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/787507286574674085"
+				"link":"https://www.airbnb.com/rooms/787507286574674085",
+				"price": 235
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/saoirse-at-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Iec2FvaXJzZS1hdC1sYWtlLXZpZXctcmVzaWRlbmNlSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuAKA1cSoBsACAdICJDgwZWQ2NmM1LWFiNzItNDRmYS05MjFhLWYxNjE5YTQ2NWEzNtgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/saoirse-at-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Iec2FvaXJzZS1hdC1sYWtlLXZpZXctcmVzaWRlbmNlSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuAKA1cSoBsACAdICJDgwZWQ2NmM1LWFiNzItNDRmYS05MjFhLWYxNjE5YTQ2NWEzNtgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -330,11 +367,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/857127543982323445"
+				"link":"https://www.airbnb.com/rooms/857127543982323445",
+				"price": 110
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/rivera-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ikcml2ZXJhLWF0LWtlbm5haC1sYWtlLXZpZXctcmVzaWRlbmNlSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuALa08SoBsACAdICJDIwYWE0ZDMyLTQ5MjgtNDg5Ny04YWFhLTcxM2NlYjdhY2U5ZdgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/rivera-at-kennah-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ikcml2ZXJhLWF0LWtlbm5haC1sYWtlLXZpZXctcmVzaWRlbmNlSDNYBGhDiAEBmAEJuAEYyAEM2AEB6AEBiAIBqAIEuALa08SoBsACAdICJDIwYWE0ZDMyLTQ5MjgtNDg5Ny04YWFhLTcxM2NlYjdhY2U5ZdgCBeACAQ&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -350,11 +389,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/925228657823861210"
+				"link":"https://www.airbnb.com/rooms/925228657823861210",
+				"price": 100
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/kennah-at-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ida2VubmFoLWF0LWxha2Utdmlldy1yZXNpZGVuY2VIM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4At7TxKgGwAIB0gIkYmYxZjgyNzAtOTliZS00NjU0LWI2MTUtYWQ0Yjk1OTJhZjk02AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&"
+				"link":"https://www.booking.com/hotel/eg/kennah-at-lake-view-residence.en-gb.html?label=gen173nr-1BCAsoQ0Ida2VubmFoLWF0LWxha2Utdmlldy1yZXNpZGVuY2VIM1gEaEOIAQGYAQm4ARjIAQzYAQHoAQGIAgGoAgS4At7TxKgGwAIB0gIkYmYxZjgyNzAtOTliZS00NjU0LWI2MTUtYWQ0Yjk1OTJhZjk02AIF4AIB&sid=171bf6e5a00c06ae1e3729b30d3e05cd&dist=0&keep_landing=1&sb_price_type=total&type=total&",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -370,11 +411,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/954233501510057658"
+				"link":"https://www.airbnb.com/rooms/954233501510057658",
+				"price": 230
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/varenna-at-kennah-west-golf-extension.en-gb.html"
+				"link":"https://www.booking.com/hotel/eg/varenna-at-kennah-west-golf-extension.en-gb.html",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -390,11 +433,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/954196629464468259"
+				"link":"https://www.airbnb.com/rooms/954196629464468259",
+				"price": 190
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/catalina-at-kennah-west-golf-extension.en-gb.html"
+				"link":"https://www.booking.com/hotel/eg/catalina-at-kennah-west-golf-extension.en-gb.html",
+				"price": 110
 			},
 			"expedia":
 			{
@@ -410,11 +455,13 @@
 		{
 			"airbnb":
 			{
-				"link":"https://www.airbnb.com/rooms/954223347700285524"
+				"link":"https://www.airbnb.com/rooms/954223347700285524",
+				"price": 150
 			},
 			"booking":
 			{
-				"link":"https://www.booking.com/hotel/eg/lourina-at-kennah-west-golf-extension.en-gb.html"
+				"link":"https://www.booking.com/hotel/eg/lourina-at-kennah-west-golf-extension.en-gb.html",
+				"price": 110
 			},
 			"expedia":
 			{
