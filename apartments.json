@@ -468,5 +468,27 @@
 				"link":""
 			}
 		}
+    },
+	{
+        "name": "55b-304-lake-view-residence",
+        "type": 24,
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/1012864044628802522",
+				"price": 125
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/55b-304-lake-view-residence.en-gb.html",
+				"price": 144
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     }
 ]
