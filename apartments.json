@@ -490,5 +490,27 @@
 				"link":""
 			}
 		}
+    },
+		{
+        "name": "rivera-eastown",
+        "type": 25,
+        "rangdate": 2,
+		"otherChannel":
+		{
+			"airbnb":
+			{
+				"link":"https://www.airbnb.com/rooms/1046902753853871671",
+				"price": 125
+			},
+			"booking":
+			{
+				"link":"https://www.booking.com/hotel/eg/rivera-eastown-sodic.html",
+				"price": 144
+			},
+			"expedia":
+			{
+				"link":""
+			}
+		}
     }
 ]
